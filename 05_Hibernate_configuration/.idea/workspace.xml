@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../05_Hibernate_configuration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/com/awesome/entity" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -53,13 +53,28 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\HibernateProj\05_Hibernate_configuration\src\main\resources\com\awesome\entity" />
+      <recent name="D:\IdeaProjects\HibernateProj\05_Hibernate_configuration\src\main\java\com\awesome\entity" />
       <recent name="D:\IdeaProjects\HibernateProj\02_Hibernate_cascading_relationship\src\main\resources\com\awesome\entity" />
       <recent name="D:\IdeaProjects\Hibernate\src\main\resources\com\awesome\entity" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.HbnTest.test03">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HbnTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="04_Hibernate_lazy_loading2" />
+      <module name="05_Hibernate_configuration" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.awesome.*" />
@@ -75,7 +90,7 @@
       </method>
     </configuration>
     <configuration name="HbnTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="04_Hibernate_lazy_loading2" />
+      <module name="05_Hibernate_configuration" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.awesome.*" />
@@ -91,7 +106,7 @@
       </method>
     </configuration>
     <configuration name="HbnTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="04_Hibernate_lazy_loading2" />
+      <module name="05_Hibernate_configuration" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.awesome.*" />
@@ -129,7 +144,7 @@
       <workItem from="1652770995405" duration="2554000" />
       <workItem from="1652781734659" duration="2848000" />
       <workItem from="1652784912769" duration="1360000" />
-      <workItem from="1652786527482" duration="11000" />
+      <workItem from="1652786539793" duration="1726000" />
     </task>
     <servers />
   </component>
