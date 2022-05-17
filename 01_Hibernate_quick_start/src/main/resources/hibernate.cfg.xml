@@ -28,6 +28,6 @@
         <property name="hibernate.hbm2ddl.auto"></property>
 
         <!-- register mapping files -->
-        <mapping resource="com/awesome/entity/Person.hbn.xml"></mapping>
+        <mapping resource="com/awesome/entity/Person.hbm.xml"></mapping>
     </session-factory>
 </hibernate-configuration>

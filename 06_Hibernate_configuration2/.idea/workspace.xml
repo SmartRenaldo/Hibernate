@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +107,7 @@
       <workItem from="1652781734659" duration="2848000" />
       <workItem from="1652784912769" duration="1360000" />
       <workItem from="1652786539793" duration="1726000" />
-      <workItem from="1652793855357" duration="1383000" />
+      <workItem from="1652793855357" duration="1450000" />
     </task>
     <servers />
   </component>

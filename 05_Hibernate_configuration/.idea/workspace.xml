@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="" />
+    <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Course.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Course.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Customer.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Customer.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Orders.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Orders.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Person.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Person.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Student.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Student.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_Hibernate_configuration2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_Hibernate_configuration2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,13 +67,15 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.HbnTest.test03">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -142,6 +153,7 @@
       <workItem from="1652784912769" duration="1360000" />
       <workItem from="1652786539793" duration="1726000" />
       <workItem from="1652793769247" duration="83000" />
+      <workItem from="1652795321491" duration="76000" />
     </task>
     <servers />
   </component>

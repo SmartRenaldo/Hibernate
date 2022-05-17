@@ -28,10 +28,10 @@
         <property name="hibernate.hbm2ddl.auto"></property>
 
         <!-- register mapping files -->
-        <mapping resource="com/awesome/entity/Course.hbn.xml"></mapping>
-        <mapping resource="com/awesome/entity/Customer.hbn.xml"></mapping>
-        <mapping resource="com/awesome/entity/Orders.hbn.xml"></mapping>
-        <mapping resource="com/awesome/entity/Person.hbn.xml"></mapping>
-        <mapping resource="com/awesome/entity/Student.hbn.xml"></mapping>
+        <mapping resource="com/awesome/entity/Course.hbm.xml"></mapping>
+        <mapping resource="com/awesome/entity/Customer.hbm.xml"></mapping>
+        <mapping resource="com/awesome/entity/Orders.hbm.xml"></mapping>
+        <mapping resource="com/awesome/entity/Person.hbm.xml"></mapping>
+        <mapping resource="com/awesome/entity/Student.hbm.xml"></mapping>
     </session-factory>
 </hibernate-configuration>

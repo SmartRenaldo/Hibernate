@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="" />
+    <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Person.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Person.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/com/awesome/entity/Course.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/com/awesome/entity/Course.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/com/awesome/entity/Customer.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/com/awesome/entity/Customer.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/com/awesome/entity/Orders.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/com/awesome/entity/Orders.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/com/awesome/entity/Student.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/com/awesome/entity/Student.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/com/awesome/entity/Course.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/com/awesome/entity/Course.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/com/awesome/entity/Customer.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/com/awesome/entity/Customer.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/com/awesome/entity/Orders.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/com/awesome/entity/Orders.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/com/awesome/entity/Student.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/com/awesome/entity/Student.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_Hibernate_lazy_loading/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/com/awesome/entity/Course.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/com/awesome/entity/Course.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/com/awesome/entity/Customer.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/com/awesome/entity/Customer.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/com/awesome/entity/Orders.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/com/awesome/entity/Orders.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/com/awesome/entity/Student.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/com/awesome/entity/Student.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Hibernate_lazy_loading2/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Course.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Course.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Customer.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Customer.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Orders.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Orders.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Person.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Person.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Student.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Student.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_Hibernate_configuration2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_Hibernate_configuration2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +46,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,6 +59,7 @@
     </option>
   </component>
   <component name="ProjectId" id="29GrtwezL5l7JWBRikkGHFtzMmf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,13 +84,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,10 +130,22 @@
       <workItem from="1652750488580" duration="5348000" />
       <workItem from="1652756213710" duration="1215000" />
       <workItem from="1652757507352" duration="38000" />
+      <workItem from="1652795519259" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

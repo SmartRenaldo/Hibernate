@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Course.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Course.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Customer.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Customer.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Orders.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Orders.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Student.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awesome/entity/Student.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Course.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Course.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Customer.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Customer.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Orders.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Orders.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Person.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Person.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Student.hbn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/com/awesome/entity/Student.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Hibernate_configuration/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_Hibernate_configuration2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_Hibernate_configuration2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +70,17 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.HbnTest.test03">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HbnTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="04_Hibernate_lazy_loading2" />
       <extension name="coverage">
@@ -130,6 +153,7 @@
       <workItem from="1652781734659" duration="2848000" />
       <workItem from="1652784912769" duration="1360000" />
       <workItem from="1652786527482" duration="11000" />
+      <workItem from="1652795401618" duration="35000" />
     </task>
     <servers />
   </component>
