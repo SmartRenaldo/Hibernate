@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01_Hibernate_quick_start" />
+        <module name="05_Hibernate_configuration" />
+        <module name="Hibernate" />
+        <module name="06_Hibernate_configuration2" />
+        <module name="08_Hibernate_HQL" />
+        <module name="03_Hibernate_lazy_loading" />
+        <module name="04_Hibernate_lazy_loading2" />
+        <module name="02_Hibernate_cascading_relationship" />
+        <module name="07_Hibernate_configuration3" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

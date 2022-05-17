@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_Hibernate_configuration3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07_Hibernate_configuration3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../08_Hibernate_HQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -59,22 +59,20 @@
       <recent name="D:\IdeaProjects\Hibernate\src\main\resources\com\awesome\entity" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HbnTest.test02">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HbnTest.test04">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HbnTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="07_Hibernate_configuration3" />
+      <module name="08_Hibernate_HQL" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.awesome.*" />
@@ -90,7 +88,7 @@
       </method>
     </configuration>
     <configuration name="HbnTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="07_Hibernate_configuration3" />
+      <module name="08_Hibernate_HQL" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.awesome.*" />
@@ -105,8 +103,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HbnTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_Hibernate_HQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.awesome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.awesome" />
+      <option name="MAIN_CLASS_NAME" value="com.awesome.HbnTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbnTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_Hibernate_HQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.awesome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.awesome" />
+      <option name="MAIN_CLASS_NAME" value="com.awesome.HbnTest" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HbnTest.test04" />
+        <item itemvalue="JUnit.HbnTest.test03" />
         <item itemvalue="JUnit.HbnTest.test02" />
         <item itemvalue="JUnit.HbnTest.test01" />
       </list>
@@ -129,7 +161,8 @@
       <workItem from="1652784912769" duration="1360000" />
       <workItem from="1652786539793" duration="1726000" />
       <workItem from="1652793855357" duration="1450000" />
-      <workItem from="1652795626328" duration="1140000" />
+      <workItem from="1652795626328" duration="718000" />
+      <workItem from="1652796778469" duration="1531000" />
     </task>
     <servers />
   </component>
