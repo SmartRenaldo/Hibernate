@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b34dff23-2269-4b46-abdf-179ef2caff5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_Hibernate_cascading_relationship/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../03_Hibernate_lazy_loading" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -57,9 +57,20 @@
       <recent name="D:\IdeaProjects\Hibernate\src\main\resources\com\awesome\entity" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HbnTest.test02">
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HbnTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="02_Hibernate_cascading_relationship" />
+      <module name="03_Hibernate_lazy_loading" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.awesome.*" />
@@ -74,42 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HbnTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="02_Hibernate_cascading_relationship" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.awesome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.awesome" />
-      <option name="MAIN_CLASS_NAME" value="com.awesome.HbnTest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HbnTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="02_Hibernate_cascading_relationship" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.awesome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.awesome" />
-      <option name="MAIN_CLASS_NAME" value="com.awesome.HbnTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HbnTest.test02" />
-        <item itemvalue="JUnit.HbnTest.test2" />
         <item itemvalue="JUnit.HbnTest.test01" />
       </list>
     </recent_temporary>
@@ -126,7 +103,7 @@
       <workItem from="1652756213710" duration="1215000" />
       <workItem from="1652757547777" duration="6804000" />
       <workItem from="1652770238384" duration="202000" />
-      <workItem from="1652770984839" duration="9000" />
+      <workItem from="1652770995405" duration="2554000" />
     </task>
     <servers />
   </component>
